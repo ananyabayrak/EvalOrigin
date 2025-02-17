@@ -4,3 +4,4 @@
 
 - Initial release
 - chore: clarify the setup steps
+- fix: fix a small wording issue
